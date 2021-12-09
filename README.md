@@ -2,9 +2,9 @@
 
 
 1.	Data Extraction
-  a.	Dataset: https://datacatalog.worldbank.org/search/dataset/0037996/Statistical-Performance-Indicators
+a.	Dataset: https://datacatalog.worldbank.org/search/dataset/0037996/Statistical-Performance-Indicators
 
-  b.	Data Description: Statistical Performance Indicators are developed to monitor the statistical performance of the countries and the parameters involved in this dataset are country, date, SPI index for data use, SPI index for data services and data products and overall SPI index score. The reason mentioned about why this was developed is because there were challenges in making decisions for having high quality data. To keep a check on the performance and to avoid the challenges, this dataset would be used. Every country depending on the region has its overall SPI score based on the year. The data has 50 indicators and has data for 174 countries.
+b.	Data Description: Statistical Performance Indicators are developed to monitor the statistical performance of the countries and the parameters involved in this dataset are country, date, SPI index for data use, SPI index for data services and data products and overall SPI index score. The reason mentioned about why this was developed is because there were challenges in making decisions for having high quality data. To keep a check on the performance and to avoid the challenges, this dataset would be used. Every country depending on the region has its overall SPI score based on the year. The data has 50 indicators and has data for 174 countries.
 
 2.	Data Visualization
 Data visualization was performed on the dataset to further analyze the dimensions of data.
